@@ -1,2 +1,3 @@
-# CNNs
+CNNs
 Machine Learning model used to classify the number on handwritten digits, using the MNIST database to train the model.
+Model created with TensorFlow on Python.
