@@ -1,1 +1,2 @@
+#CNN
 Machine Learning model used to classify the number on handwritten digits, using the MNIST database to train the model.
